@@ -4,4 +4,4 @@
 “Sorte e oque acontece quando a preparação encontra a oportunidade”. Sêneca
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BrunoSFreschi&color=red" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BrunoSFreschi&color=blue" alt="Profile views" /> </p>
