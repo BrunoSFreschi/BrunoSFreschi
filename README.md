@@ -4,4 +4,12 @@
 
 ###
 
+📚 Atualmente estudando
+
+Angular com Atomic Design
+
+ETL e processos de migração de dados
+
+Criptografia, Estruturas de Dados e Big O
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrunoSFreschi&color=blue" alt="Profile views" /> </p>
