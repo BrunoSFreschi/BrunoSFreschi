@@ -15,7 +15,7 @@
   ],
   "Architecture": "Clean Architecture & Domain-Driven Design",
   "Role": "Backend Developer & Student of Computer Science",
-  "Mindset": "Aprendizado contínuo e busca por excelência"
+  "Mindset": "Código limpo, dados confiáveis"
 }
 ```
 
