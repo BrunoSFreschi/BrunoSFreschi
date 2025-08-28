@@ -11,7 +11,8 @@
     ".NET (Minimal API, Clean Architecture, DDD)",
     "SQL Server & ETL",
     "Angular (Atomic Design)",
-    "XUnity"
+    "XUnity",
+    "javaScript"
   ],
   "Architecture": "Clean Architecture & Domain-Driven Design",
   "Role": "Backend Developer & Student of Computer Science",
