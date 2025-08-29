@@ -9,6 +9,7 @@
   "CurrentFocus": [
     "C#",
     ".NET (Minimal API, Clean Architecture, DDD)",
+    "WPF",
     "SQL Server & ETL",
     "Angular (Atomic Design)",
     "XUnity",
