@@ -11,7 +11,7 @@
     ".NET (Minimal API, Clean Architecture, DDD)",
     "WPF",
     "SQL Server & ETL",
-    "Angular (Atomic Design)",
+    "Angular",
     "XUnity",
     "javaScript"
   ],
