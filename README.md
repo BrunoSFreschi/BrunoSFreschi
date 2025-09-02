@@ -4,7 +4,7 @@
 ```json
 {
   "Name": "Bruno S Freschi",
-  "Vision": "Construindo soluções limpas e estruturadas",
+  "Vision": "Soluções limpas e bem estruturadas resultam em dados confiáveis.",
   "YearsOfExperience": 3,
   "CurrentFocus": [
     "C#",
@@ -15,9 +15,14 @@
     "XUnity",
     "javaScript"
   ],
-  "Architecture": "Clean Architecture & Domain-Driven Design",
-  "Role": "Backend Developer & Student of Computer Science",
-  "Mindset": "Código limpo, dados confiáveis"
+  "Architecture": [
+    "Clean Architecture",
+    "Domain-Driven Design"
+  ],
+  "Role": [
+    "Backend Developer",
+    "Student of Computer Science"
+  ]
 }
 ```
 
