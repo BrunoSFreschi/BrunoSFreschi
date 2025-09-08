@@ -8,7 +8,7 @@
   "YearsOfExperience": 3,
   "CurrentFocus": [
     "C#",
-    ".NET (Minimal API, Clean Architecture, DDD)",
+    ".NET",
     "WPF",
     "SQL Server & ETL",
     "Angular",
