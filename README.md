@@ -18,6 +18,7 @@
   "Architecture": [    
     "MVC",
     "MVVM",
+    "Layered architectures",
     "Clean Architecture",
     "Domain-Driven Design"
   ],
