@@ -15,7 +15,9 @@
     "XUnity",
     "javaScript"
   ],
-  "Architecture": [
+  "Architecture": [    
+    "MVC",
+    "MVVM",
     "Clean Architecture",
     "Domain-Driven Design"
   ],
