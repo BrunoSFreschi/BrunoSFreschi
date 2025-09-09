@@ -4,7 +4,7 @@
 ```json
 {
   "Name": "Bruno S Freschi",
-  "Vision": "Soluções limpas e bem estruturadas resultam em dados confiáveis.",
+  "Vision": "Código limpo, dados confiáveis.",
   "YearsOfExperience": 3,
   "CurrentFocus": [
     "C#",
