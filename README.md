@@ -13,6 +13,8 @@
     "SQL Server & ETL",
     "Angular",
     "XUnity",
+    "Docker",
+    "WSL",
     "javaScript"
   ],
   "Architecture": [    
