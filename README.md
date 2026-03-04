@@ -26,7 +26,8 @@ Desenvolvedor backend focado em .NET e arquitetura limpa, especializado em trans
 
 ## 📬 Contato
 
-- LinkedIn: 
-- Portfólio: 
+- [LinkedIn](https://www.linkedin.com/in/bruno-s-freschi-b61464206/)
+- [Portfólio](https://brunosfreschi.github.io/port/)
+- [dev.to](https://dev.to/bruno_freschi)
   
 ---
