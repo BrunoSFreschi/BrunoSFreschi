@@ -23,3 +23,10 @@ Desenvolvedor backend focado em .NET e arquitetura limpa, especializado em trans
 - Testes como garantia de evolução segura  
 
 ---
+
+## 📬 Contato
+
+- LinkedIn: 
+- Portfólio: 
+  
+---
