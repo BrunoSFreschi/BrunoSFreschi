@@ -1,4 +1,3 @@
-# 👨‍💻 Bruno S Freschi
 
 **Backend .NET Developer | Clean Architecture | APIs Escaláveis | Engenharia Orientada a Domínio**
 
