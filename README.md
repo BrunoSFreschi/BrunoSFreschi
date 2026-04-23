@@ -32,7 +32,6 @@ Desenvolvedor backend focado em .NET e arquitetura limpa, especializado em trans
 ---
 
 
-
+<!--
 #
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BrunoSFreschi&bg_color=101010&color=54e354&line=54e354&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?sername=BrunoSFreschi&bg_color=101010&color=54e354&line=54e354&point=FFFFFF&hide_border=true" /></a>  -->
