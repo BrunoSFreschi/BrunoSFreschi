@@ -1,37 +1,36 @@
+# **Fullstack Developer | Clean Architecture | Software Architecture**
 
-**Backend .NET Developer | Clean Architecture | APIs Escaláveis | Engenharia Orientada a Domínio**
+Developer with professional experience in both backend and frontend, building robust, scalable applications aligned with project needs.
 
-Desenvolvedor backend focado em .NET e arquitetura limpa, especializado em transformar regras de negócio complexas em sistemas previsíveis, testáveis e escaláveis.
+Strong experience with **.NET on the backend**, high-performance APIs, and systems integration, along with **frontend development using Angular and Vue**, creating modern, responsive, and user-focused interfaces.
 
----
-
-## 🚀 Atualmente focado em evoluir
-
-- Modelagem de domínio rica  
-- Arquiteturas desacopladas  
-- Performance e observabilidade  
-- Engenharia orientada a métricas  
+Currently deepening expertise in **Software Architecture**, system design, and best practices to build sustainable long-term solutions.
 
 ---
 
-## 🧠 Mentalidade
+## 🚀 Currently Focused On Growing In
 
-- Código como ativo de longo prazo  
-- Clareza > Complexidade  
-- Arquitetura antes de framework  
-- Testes como garantia de evolução segura  
+- Software Architecture and System Design  
+- Clean Architecture and Domain-Driven Design  
+- Performance, observability, and quality  
+- Best practices  
 
 ---
 
-## 📬 Contato
+## 🧠 Mindset
+
+- Code as a long-term asset  
+- Clarity > Complexity  
+- Architecture before framework  
+- Product and user experience matter  
+- Continuous growth built on strong fundamentals  
+
+---
+
+## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-s-freschi-b61464206/)
-- [Portfólio](https://brunosfreschi.github.io/port/)
+- [Portfolio](https://brunosfreschi.github.io/port/)
 - [dev.to](https://dev.to/bruno_freschi)
-  
+
 ---
-
-
-<!--
-#
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?sername=BrunoSFreschi&bg_color=101010&color=54e354&line=54e354&point=FFFFFF&hide_border=true" /></a>  -->
